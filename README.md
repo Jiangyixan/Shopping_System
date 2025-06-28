@@ -47,12 +47,15 @@
    - nextItemId：下一个购物车项ID
    - username：用户名
 ### 图示
+
 ![image](https://github.com/user-attachments/assets/cc8cb39f-d098-4d71-88e8-50b3c0fe227f)
 1.类关系说明
     - User类作为基类，定义了用户的基本属性和方法
     - Consumer和Seller类继承自User类，分别实现消费者和商家的特定功能
     - 所有用户共享基本的账户管理功能（充值、消费、密码修改等）
+    
 ![image](https://github.com/user-attachments/assets/ade5d71a-5e5d-4bb4-87bb-abf3549fb55f)
+
 2. 类关系说明
     - Product类作为基类，定义了商品的基本属性和方法
     - Book、Food、Clothing类继承自Product类，实现不同类型商品的特定功能
@@ -63,4 +66,5 @@
     - getProductType()：获取商品类型
     - updatePrice()：更新商品价格
     - updateQuantity()：更新商品库存
+
 ![image](https://github.com/user-attachments/assets/2686f018-c9fe-4d5e-a157-807c919ccbd5)
