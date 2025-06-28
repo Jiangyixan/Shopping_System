@@ -147,3 +147,18 @@
     | +HandleCreateOrder()|
     | +HandlePayOrder()|
     +----------------+
+
+## 运行截图
+
+![2080ddc6db7eb519ea86446cdaefe50](https://github.com/user-attachments/assets/c6f43fee-c046-41e8-84ff-dd64cbe4cf78)
+
+![登录](https://github.com/user-attachments/assets/3fca850b-4406-49e0-9f7d-ca8e1fefe8a9)
+
+![查看商品信息](https://github.com/user-attachments/assets/42e2035b-450e-4f5c-93e0-fa789b4e755c)
+
+![搜索商品](https://github.com/user-attachments/assets/56603f04-6276-4d38-85da-96896be5b89f)
+
+![添加购物车](https://github.com/user-attachments/assets/095b6907-5fc6-4029-a61a-f280e1efd359)
+
+![下单](https://github.com/user-attachments/assets/4dbb89d7-3c68-49dc-b137-bc414a98938f)
+
