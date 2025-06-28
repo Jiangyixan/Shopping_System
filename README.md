@@ -98,3 +98,52 @@
 
 ![DataHandler说明图](https://github.com/user-attachments/assets/b0c924c8-b7d5-4964-98ef-5f671b5105e3)
 
+## 客户端实现
+### Client类设计
+
+    +----------------+
+    |     Client     |
+    +----------------+
+    | -serverIP_     |
+    | -port_         |
+    | -clientSocket_ |
+    | -connected_    |
+    +----------------+
+    | +Connect()     |
+    | +Disconnect()  |
+    | +SendMessage() |
+    | +Login()       |
+    | +GetProducts() |
+    | +SearchProducts()|
+    | +AddToCart()   |
+    | +GetCart()     |
+    | +RemoveFromCart()|
+    | +CreateOrder() |
+    | +PayOrder()    |
+    +----------------+
+    
+### Server类设计
+
+    +----------------+
+    |     Server     |
+    +----------------+
+    | -port_         |
+    | -running_      |
+    | -serverSocket_ |
+    | -clientThreads_|
+    | -currentUser   |
+    | -dataHandler_  |
+    +----------------+
+    | +Start()       |
+    | +Stop()        |
+    | +HandleClient()|
+    | +ProcessMessage()|
+    | +HandleLogin() |
+    | +HandleGetProducts()|
+    | +HandleSearchProducts()|
+    | +HandleAddToCart()|
+    | +HandleGetCart()|
+    | +HandleRemoveFromCart()|
+    | +HandleCreateOrder()|
+    | +HandlePayOrder()|
+    +----------------+
