@@ -49,6 +49,7 @@
 ### 图示
 
 ![image](https://github.com/user-attachments/assets/cc8cb39f-d098-4d71-88e8-50b3c0fe227f)
+
 1.类关系说明
     - User类作为基类，定义了用户的基本属性和方法
     - Consumer和Seller类继承自User类，分别实现消费者和商家的特定功能
