@@ -8,3 +8,5 @@ VS(主要）
 json,支持json格式
 # # 正文
 网络版主要实现的功能就是：登录、展示平台商品信息、搜索平台商品信息、购物车管理、订单生产、订单支付
+![image](https://github.com/user-attachments/assets/cc8cb39f-d098-4d71-88e8-50b3c0fe227f)
+
