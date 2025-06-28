@@ -95,6 +95,6 @@
    - loginUser()：用户登录验证
    - getProductByXXX()：多种商品查询方式
    - updateProduct()/deleteProduct()：商品信息更新和删除
-、
-![image](https://github.com/user-attachments/assets/b0c924c8-b7d5-4964-98ef-5f671b5105e3)
+
+![DataHandler说明图](https://github.com/user-attachments/assets/b0c924c8-b7d5-4964-98ef-5f671b5105e3)
 
