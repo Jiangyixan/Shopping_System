@@ -85,9 +85,9 @@
 ![购物车说明图](https://github.com/user-attachments/assets/d89ee5ae-b6d4-4993-a1b5-4c2234bf0ccf)
 
 **4.类关系说明**
-    - DataHandler类负责所有数据的持久化操作
-    - 与User类和Product类交互，处理用户和商品数据的存储和读取
-    - 提供数据查询和更新接口
+   - DataHandler类负责所有数据的持久化操作
+   - 与User类和Product类交互，处理用户和商品数据的存储和读取
+   - 提供数据查询和更新接口
 
    **4.1关键方法说明**
     - saveUser()/loadUsers()：用户数据的保存和加载
