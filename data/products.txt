@@ -1,0 +1,7 @@
+1	C++ Primer Plus	Beginner to Advanced	9	100	1	Book  
+2	C Primer Plus	Beginner to Advanced	9	100	1	Book  
+3	Beret	Good!	10	100	1	Clothing  
+4	Boiled Fish (Spicy)	Delicious	10	100	1	Food  
+5	Computer Networks	Very Thick	10	100	1	Book  
+6	Seaweed Soup	Tasty	10	100	1	Food  
+7	Jeans	Blue	10	100	king	Clothing  
